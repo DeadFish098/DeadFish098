@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeadFish098
 - 👀 I’m interested in learning programming to work with it.
-- 🌱 I’m currently learning pyton
+- 🌱 I’m currently learning pyton and Javascript
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me joao.veneravel3477@gmail.com
 
